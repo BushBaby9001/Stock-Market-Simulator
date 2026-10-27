@@ -1,0 +1,16 @@
+Manual for StockMarketSimulator
+
+Initialising Stocks:
+To initialise a stock, type the stock ticker into the box in the top left, then press enter.
+To change the overall time period and interval between new pieces of data loading, click on the labelled period and interval buttons in the bottom right.
+To initialise more than one stock and swap between them, load a new stock, following the previous instructions, then click on the STOCK LOADED: button in the top/middle of the screen.
+
+Buying and Selling:
+Click on the buy or sell buttons. Ensure you have enough money to purchase / stocks to sell.
+To change the amount of stocks bought/sold, click on the volume button until the desired amount is reached.
+
+Account Creation, Saving and Loading:
+Click on the ACCOUNT button. In the python console, input your username, password and if you are saving or loading data
+to create an account, you can use any username and password. You can choose either save or load and it will create the account file
+To save your data to your account, input the same username and password and it will save. Using the wrong password will not allow you to save. Using an incorrect username will create a new account under that name
+The same works for loading, but choose load instead of save.
